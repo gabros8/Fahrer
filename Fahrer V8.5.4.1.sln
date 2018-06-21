@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrer V8.5.4.1", "Assembly-CSharp.csproj", "{1E3CE728-9117-672C-B71D-4A55C2AF1FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrer V8.5.4.1", "Assembly-CSharp-Editor.csproj", "{839382B0-34DE-703D-3454-D1E4FB54A770}"
+EndProject
+Project("{713797D8-07BF-30D1-22C4-436D8ED94C53}") = "Fahrer V8.5.4.1", "Assembly-UnityScript.unityproj", "{1F0ABE80-0903-AE8B-3C99-EB361BE88F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3CE728-9117-672C-B71D-4A55C2AF1FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3CE728-9117-672C-B71D-4A55C2AF1FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3CE728-9117-672C-B71D-4A55C2AF1FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3CE728-9117-672C-B71D-4A55C2AF1FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839382B0-34DE-703D-3454-D1E4FB54A770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839382B0-34DE-703D-3454-D1E4FB54A770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839382B0-34DE-703D-3454-D1E4FB54A770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839382B0-34DE-703D-3454-D1E4FB54A770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0ABE80-0903-AE8B-3C99-EB361BE88F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0ABE80-0903-AE8B-3C99-EB361BE88F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0ABE80-0903-AE8B-3C99-EB361BE88F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0ABE80-0903-AE8B-3C99-EB361BE88F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

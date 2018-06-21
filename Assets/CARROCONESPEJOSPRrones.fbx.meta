@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 45a122290d678324a8dd7459b471e59a
+timeCreated: 1512520081
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Asiento 1
+    100002: Asiento 1.001
+    100004: Asiento 2
+    100006: Camera
+    100008: Camera.001
+    100010: Carro
+    100012: //RootNode
+    100014: CarroINTERIOR
+    100016: Cosa de abajo
+    100018: Cosa del volante alv
+    100020: Cosas de la velocidad
+    100022: Cristales
+    100024: Espejo
+    100026: Espejo.002
+    100028: Espejo2
+    100030: Flechita
+    100032: Flechita.001
+    100034: Frenomano
+    100036: Lamp
+    100038: Lamp.001
+    100040: Lamp.002
+    100042: Lamp.003
+    100044: Lamp.004
+    100046: Lamp.005
+    100048: Lamp.006
+    100050: Lamp.007
+    100052: Lamp.008
+    100054: Lamp.009
+    100056: Limites palanca
+    100058: Llantas
+    100060: Llantas.001
+    100062: Llantas.002
+    100064: Llantas.003
+    100066: Lucesdeatrasalv
+    100068: Lucesdeatrasalv.001
+    100070: Palancadevelocidades
+    100072: Palancas
+    100074: Point
+    100076: Volante alv.000
+    100078: Volante con palancas
+    400000: Asiento 1
+    400002: Asiento 1.001
+    400004: Asiento 2
+    400006: Camera
+    400008: Camera.001
+    400010: Carro
+    400012: //RootNode
+    400014: CarroINTERIOR
+    400016: Cosa de abajo
+    400018: Cosa del volante alv
+    400020: Cosas de la velocidad
+    400022: Cristales
+    400024: Espejo
+    400026: Espejo.002
+    400028: Espejo2
+    400030: Flechita
+    400032: Flechita.001
+    400034: Frenomano
+    400036: Lamp
+    400038: Lamp.001
+    400040: Lamp.002
+    400042: Lamp.003
+    400044: Lamp.004
+    400046: Lamp.005
+    400048: Lamp.006
+    400050: Lamp.007
+    400052: Lamp.008
+    400054: Lamp.009
+    400056: Limites palanca
+    400058: Llantas
+    400060: Llantas.001
+    400062: Llantas.002
+    400064: Llantas.003
+    400066: Lucesdeatrasalv
+    400068: Lucesdeatrasalv.001
+    400070: Palancadevelocidades
+    400072: Palancas
+    400074: Point
+    400076: Volante alv.000
+    400078: Volante con palancas
+    2300000: Asiento 1
+    2300002: Asiento 1.001
+    2300004: Asiento 2
+    2300006: Carro
+    2300008: CarroINTERIOR
+    2300010: Cosa de abajo
+    2300012: Cosa del volante alv
+    2300014: Cosas de la velocidad
+    2300016: Cristales
+    2300018: Espejo
+    2300020: Espejo.002
+    2300022: Espejo2
+    2300024: Flechita
+    2300026: Flechita.001
+    2300028: Frenomano
+    2300030: Limites palanca
+    2300032: Llantas
+    2300034: Llantas.001
+    2300036: Llantas.002
+    2300038: Llantas.003
+    2300040: Lucesdeatrasalv
+    2300042: Lucesdeatrasalv.001
+    2300044: Palancadevelocidades
+    2300046: Palancas
+    2300048: Volante alv.000
+    2300050: Volante con palancas
+    3300000: Asiento 1
+    3300002: Asiento 1.001
+    3300004: Asiento 2
+    3300006: Carro
+    3300008: CarroINTERIOR
+    3300010: Cosa de abajo
+    3300012: Cosa del volante alv
+    3300014: Cosas de la velocidad
+    3300016: Cristales
+    3300018: Espejo
+    3300020: Espejo.002
+    3300022: Espejo2
+    3300024: Flechita
+    3300026: Flechita.001
+    3300028: Frenomano
+    3300030: Limites palanca
+    3300032: Llantas
+    3300034: Llantas.001
+    3300036: Llantas.002
+    3300038: Llantas.003
+    3300040: Lucesdeatrasalv
+    3300042: Lucesdeatrasalv.001
+    3300044: Palancadevelocidades
+    3300046: Palancas
+    3300048: Volante alv.000
+    3300050: Volante con palancas
+    4300000: Espejo.002
+    4300002: Frenomano
+    4300004: Limites palanca
+    4300006: Palancadevelocidades
+    4300008: Flechita.001
+    4300010: Flechita
+    4300012: Cosas de la velocidad
+    4300014: Palancas
+    4300016: Volante con palancas
+    4300018: Volante alv.000
+    4300020: CarroINTERIOR
+    4300022: Llantas.003
+    4300024: Llantas.002
+    4300026: Asiento 1.001
+    4300028: Espejo2
+    4300030: Cristales
+    4300032: Cosa de abajo
+    4300034: Lucesdeatrasalv.001
+    4300036: Llantas.001
+    4300038: Llantas
+    4300040: Lucesdeatrasalv
+    4300042: Espejo
+    4300044: Cosa del volante alv
+    4300046: Asiento 2
+    4300048: Asiento 1
+    4300050: Carro
+    6400000: Asiento 1
+    6400002: Asiento 1.001
+    6400004: Asiento 2
+    6400006: Carro
+    6400008: CarroINTERIOR
+    6400010: Cosa de abajo
+    6400012: Cosa del volante alv
+    6400014: Cosas de la velocidad
+    6400016: Cristales
+    6400018: Espejo
+    6400020: Espejo.002
+    6400022: Espejo2
+    6400024: Flechita
+    6400026: Flechita.001
+    6400028: Frenomano
+    6400030: Limites palanca
+    6400032: Llantas
+    6400034: Llantas.001
+    6400036: Llantas.002
+    6400038: Llantas.003
+    6400040: Lucesdeatrasalv
+    6400042: Lucesdeatrasalv.001
+    6400044: Palancadevelocidades
+    6400046: Palancas
+    6400048: Volante alv.000
+    6400050: Volante con palancas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

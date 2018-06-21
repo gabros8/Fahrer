@@ -1,0 +1,3 @@
+For each wheel, we need to set 6 values. The Spring Distance (All wheels should be 0.25), the Suspension Spring.Spring (1500 for the front wheels, 1000 for the rear), the Suspension Spring.Damper (All wheels are 2), the Suspension Spring.Target Position (All wheels should be 0.25), the Forward Friction.Stiffness Factor (All wheels should be 0.02) and the Sideways Friction.Stiffness Factor(All wheels should be 0.02)
+
+This means, that a 1000 KG car takes 5000 (or five times the mass) units of force to keep it springy
